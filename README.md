@@ -1,5 +1,5 @@
 # SQL_AussieRetailers
-understanding of warehousing and data mining fundamentals by using advanced SQL techniques 
+Understanding of warehousing and data mining fundamentals by using advanced SQL techniques 
 
 A retail chain, "AussieRetailers," operates across multiple states in Australia. The company prides itself on delivering exceptional customer service, maintaining a diverse product range, and staying attuned to market demands. The company has been focusing on optimizing its operations to maximize profitability while maintaining high customer satisfaction.
 
